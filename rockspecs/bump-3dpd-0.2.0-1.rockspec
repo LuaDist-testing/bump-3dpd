@@ -1,8 +1,8 @@
 package = "bump-3dpd"
-version = "0.1.0-1"
+version = "0.2.0-1"
 source = {
    url = "git://github.com/oniietzschan/bump-3dpd",
-   tag = "0.1.0",
+   tag = "0.2.0",
 }
 description = {
    summary = "A 3D collision detection library for Lua",
